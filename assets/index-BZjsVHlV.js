@@ -132,4 +132,4 @@ Error generating stack: `+o.message+`
         box-sizing: border-box;
     }
 
-`;Zo.createRoot(document.getElementById("root")).render(J.jsxs(Ve.StrictMode,{children:[J.jsx(m0,{}),J.jsx(lm,{basename:"/vite-pack",children:J.jsx(h0,{})})]}));
+`;Zo.createRoot(document.getElementById("root")).render(J.jsx(Ve.StrictMode,{children:J.jsxs(lm,{basename:"/vite-pack",children:[J.jsx(m0,{}),J.jsx(h0,{})]})}));
